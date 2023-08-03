@@ -32,6 +32,8 @@ DB_PASS = your_mysql_password
 
 Replace `your_database_name`, `your_mysql_username`, and `your_mysql_password` with your MySQL database name, username, and password respectively.
 
+Here is also a link to the [video tutorial](https://github.com/brendan-aper/E-Commerce-Back-End)
+
 ## Database Initialization
 
 To create and seed the development database with test data, follow these steps:
